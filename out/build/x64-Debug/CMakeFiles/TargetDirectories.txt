@@ -1,0 +1,3 @@
+C:/Users/Kir17/source/repos/Homework 2.10.2/out/build/x64-Debug/CMakeFiles/cmake_homework_6.3_program.dir
+C:/Users/Kir17/source/repos/Homework 2.10.2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kir17/source/repos/Homework 2.10.2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

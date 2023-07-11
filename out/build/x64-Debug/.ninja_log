@@ -1,0 +1,14 @@
+# ninja log v5
+6	246	7108002419831446	build.ninja	d8b0d517bd179e14
+61	984	7108002427104419	CMakeFiles/cmake_homework_6.3_program.dir/rhomb.cpp.obj	57c31581a5a42cf3
+33	1004	7108002427154365	CMakeFiles/cmake_homework_6.3_program.dir/parallelogram.cpp.obj	2edfbac9f4fb32a9
+79	1005	7108002427242828	CMakeFiles/cmake_homework_6.3_program.dir/square.cpp.obj	49d8d4ca12e0268f
+72	1009	7108002427222879	CMakeFiles/cmake_homework_6.3_program.dir/right_tri.cpp.obj	f97920a4533bde7c
+9	1018	7108002427232862	CMakeFiles/cmake_homework_6.3_program.dir/equil_tri.cpp.obj	f6023bf060f88772
+49	1025	7108002427529772	CMakeFiles/cmake_homework_6.3_program.dir/rectangle.cpp.obj	91f9ec9b2cde136d
+26	1057	7108002427952337	CMakeFiles/cmake_homework_6.3_program.dir/isos_tri.cpp.obj	daa9a4294f6207a2
+19	1390	7108002431308067	CMakeFiles/cmake_homework_6.3_program.dir/figure.cpp.obj	d372d5765ad5b16f
+41	1393	7108002431328024	CMakeFiles/cmake_homework_6.3_program.dir/quadrangle.cpp.obj	12b8d4a24ff021a8
+985	1740	7108002434801533	CMakeFiles/cmake_homework_6.3_program.dir/triangle.cpp.obj	b05929c9285ddd6c
+3	1883	7108002436227252	CMakeFiles/cmake_homework_6.3_program.dir/main.cpp.obj	b9ff96498e8c9cf6
+1884	2844	7108002445170513	cmake_homework_6.3_program.exe	420f0956336701c0
